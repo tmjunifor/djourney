@@ -1,0 +1,8 @@
+assets/*
+
+.import/
+.mono/
+
+!assets/.gitkeep
+*.translation
+export_presets.cfg
